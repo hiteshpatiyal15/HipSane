@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hitesh Patiyal</h1>
-<h3 align="center">Working Professional as a Quality Assurance Engineer</h3>
+<h3 align="center">@hitestpatiyal15 is a Quality-focused QA Engineer with 5 years of experience in implementing rigorous testing processes to ensure the delivery of top-tier software products. Adept at utilizing both manual and automated testing methods to drive product excellence and exceed quality standards.</h3>
 
 - 🔭 I’m currently working on **Selenium Hybrid Framework Design**
 
